@@ -1,6 +1,6 @@
 ## Uncertainty-weighted Loss Functions for Improved Adversarial Attacks on Semantic Segmentation
 
-For a detailed description, please refer to TBA.
+For a detailed description, please refer to https://arxiv.org/abs/2310.17436 .
 
 ### Packages and their versions:
 Code is tested with ```Python 3.9.12``` and ```pip 22.3.1```.
